@@ -1,8 +1,8 @@
 algoritmo "Carro"
-// Função :
+// FunÃ§Ã£o :
 // Autor :
 // Data : 04/05/2023
-// Seção de Declarações 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes 
 var
 Login,InformeLogin,Caracteristicas: caractere
 Senha,InformeSenha, Acesso01, Acesso02, Veiculo, Venda: Inteiro
